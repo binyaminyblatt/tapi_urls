@@ -1,5 +1,5 @@
 {
   "logout": "https://filter-api.techloq.com/session/logout",
-  "user-info": "https://filter-api.techloq.com/session/user-info",
+  "userinfo": "https://filter-api.techloq.com/session/user-info",
   "login": "https://filter-api.techloq.com/session/login"
 }
